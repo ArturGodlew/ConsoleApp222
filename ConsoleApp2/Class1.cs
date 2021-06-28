@@ -9,7 +9,7 @@ namespace ConsoleApp2
         void lol()
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
+        Console.WriteLine("Hello World!");
 
         }
     }
