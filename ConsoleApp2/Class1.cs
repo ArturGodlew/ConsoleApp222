@@ -6,6 +6,11 @@ namespace ConsoleApp2
 {
     class Class1
     {
-        Console.WriteLine("Hello World!");
+        void lol()
+        {
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
+
+        }
     }
 }
